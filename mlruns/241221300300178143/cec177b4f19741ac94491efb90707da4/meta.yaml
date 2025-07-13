@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/241221300300178143/cec177b4f19741ac94491efb90707da4/artifacts
+end_time: 1752345037156
+entry_point_name: ''
+experiment_id: '241221300300178143'
+lifecycle_stage: active
+run_id: cec177b4f19741ac94491efb90707da4
+run_name: unequaled-roo-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345029496
+status: 3
+tags: []
+user_id: Anshuman
